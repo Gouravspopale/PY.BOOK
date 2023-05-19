@@ -1,7 +1,7 @@
 import tkinter as tk
 
 # def call():
-#     input_label=(txt1.get())
+#     input_labe1=(txt1.get))
 #     print(input_label)
 #     input_labe2=(txt2.get())
 #     print(input_labe2)
@@ -9,8 +9,8 @@ import tkinter as tk
 #     print(input_labe3)
 #     input_labe4=(txt4.get())
 #     print(input_labe4)
-#     input_labe5=(txt5.get())
-#     print(input_labe5)
+#     input_label5=(txt5.get())
+#     print(input_label5)
 
 
 main = tk.Tk(className="  #COSTUMER DETAILES#")
