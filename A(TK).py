@@ -6,7 +6,7 @@ def submit():
     phonenum=txt2.get()
     proname=txt3.get()
     proamt=txt4.get()
-    total=txt1.get()
+    total=txt5.get()
 
     with open("C:/Users/User7/Desktop/PY.BOOK/cust.csv","w") as file:
         data=csv.writer(file)
