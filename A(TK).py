@@ -15,7 +15,7 @@ def submit():
         
         data.writerow([cust,phonenum,proname,proamt,total])
 
-main = tk.Tk(className="  #COSTUMER DETAILES#")
+main = tk.Tk(className="#COSTUMER DETAILES#")
 main.geometry("600x600")
 main.configure(bg='white')
 
